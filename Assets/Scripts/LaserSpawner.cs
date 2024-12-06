@@ -1,3 +1,8 @@
+// This script is responsible for spawning the laser obstacles on screen.
+// It starts with spawning an initial group of 5 lasers in front of the player, and then continues to spawn lasers in groups of 5 as the car moves forward.
+// The laserPrefab and laser2Prefab variables are used to drag the 2 laser prefabs.
+// You can change the amount of lasers per group with lasersPerGroup, The minZ and maxZ values, and the distance the lasers spawn from the player.
+
 //chatgpt helped with this script: https://chatgpt.com/share/67512e35-d894-8013-97b8-e8820ff16d4b
 
 using UnityEngine;

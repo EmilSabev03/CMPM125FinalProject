@@ -1,3 +1,9 @@
+//This script is attached to the main camera and is used to follow the player's car. 
+//There are offset values for x, y, and z to change the rotation and angle.
+//The variables translateSpeed and deltaTime are used to make the camera rotation not locked.
+
+//This script was created with the help of this youtube video: https://www.youtube.com/watch?v=Z4HA8zJhGEk
+
 using System;
 using System.Collections;
 using System.Collections.Generic;

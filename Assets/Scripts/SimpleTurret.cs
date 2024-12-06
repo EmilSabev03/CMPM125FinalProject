@@ -1,3 +1,7 @@
+//This script is used to create the turret and projectile functionality.
+//You can adjust the projectile speed, rotation speed, fire interval, and detection radius values manually as you see fit.
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

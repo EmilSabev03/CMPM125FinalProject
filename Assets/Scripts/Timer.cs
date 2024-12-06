@@ -1,3 +1,8 @@
+//This script handles and manages the timer UI which is displayed on screen.
+//We also use this timer script to handle the gameover collision object. Depending on the time the player gets, it switches to a scene with respect to the player's time.
+
+//This youtube video was used to help create this script: https://www.youtube.com/watch?v=POq1i8FyRyQ&t=61s
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

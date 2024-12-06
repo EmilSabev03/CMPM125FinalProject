@@ -1,3 +1,7 @@
+//This script loops the plane objects in the sky from variable startPoint to variable endPoint. 
+//Once the plane has reached the endPoint, it moves back to startPoint, infinitely looping the object.
+//You can adjust the speed of the plane using the speed variable.
+
 //chatgpt helped with this script: https://chatgpt.com/share/67486629-aa2c-8001-af60-ee25b7ddab8e
 
 using UnityEngine;
